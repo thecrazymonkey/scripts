@@ -1,2 +1,2 @@
 # scripts
-placeholder for various scripts
+placeholder for various scripts and tools
